@@ -1,0 +1,15 @@
+C:\Users\britt\OneDrive\Desktop\Scripts\Lab 3\lab-3-to-do-list-Britton97\bin\Debug\net8.0\lab-3-to-do-list-Britton97.exe
+C:\Users\britt\OneDrive\Desktop\Scripts\Lab 3\lab-3-to-do-list-Britton97\bin\Debug\net8.0\lab-3-to-do-list-Britton97.deps.json
+C:\Users\britt\OneDrive\Desktop\Scripts\Lab 3\lab-3-to-do-list-Britton97\bin\Debug\net8.0\lab-3-to-do-list-Britton97.runtimeconfig.json
+C:\Users\britt\OneDrive\Desktop\Scripts\Lab 3\lab-3-to-do-list-Britton97\bin\Debug\net8.0\lab-3-to-do-list-Britton97.dll
+C:\Users\britt\OneDrive\Desktop\Scripts\Lab 3\lab-3-to-do-list-Britton97\bin\Debug\net8.0\lab-3-to-do-list-Britton97.pdb
+C:\Users\britt\OneDrive\Desktop\Scripts\Lab 3\lab-3-to-do-list-Britton97\obj\Debug\net8.0\lab-3-to-do-list-Britton97.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\britt\OneDrive\Desktop\Scripts\Lab 3\lab-3-to-do-list-Britton97\obj\Debug\net8.0\lab-3-to-do-list-Britton97.AssemblyInfoInputs.cache
+C:\Users\britt\OneDrive\Desktop\Scripts\Lab 3\lab-3-to-do-list-Britton97\obj\Debug\net8.0\lab-3-to-do-list-Britton97.AssemblyInfo.cs
+C:\Users\britt\OneDrive\Desktop\Scripts\Lab 3\lab-3-to-do-list-Britton97\obj\Debug\net8.0\lab-3-to-do-list-Britton97.csproj.CoreCompileInputs.cache
+C:\Users\britt\OneDrive\Desktop\Scripts\Lab 3\lab-3-to-do-list-Britton97\obj\Debug\net8.0\lab-3-to-do-list-Britton97.sourcelink.json
+C:\Users\britt\OneDrive\Desktop\Scripts\Lab 3\lab-3-to-do-list-Britton97\obj\Debug\net8.0\lab-3-to-do-list-Britton97.dll
+C:\Users\britt\OneDrive\Desktop\Scripts\Lab 3\lab-3-to-do-list-Britton97\obj\Debug\net8.0\refint\lab-3-to-do-list-Britton97.dll
+C:\Users\britt\OneDrive\Desktop\Scripts\Lab 3\lab-3-to-do-list-Britton97\obj\Debug\net8.0\lab-3-to-do-list-Britton97.pdb
+C:\Users\britt\OneDrive\Desktop\Scripts\Lab 3\lab-3-to-do-list-Britton97\obj\Debug\net8.0\lab-3-to-do-list-Britton97.genruntimeconfig.cache
+C:\Users\britt\OneDrive\Desktop\Scripts\Lab 3\lab-3-to-do-list-Britton97\obj\Debug\net8.0\ref\lab-3-to-do-list-Britton97.dll
